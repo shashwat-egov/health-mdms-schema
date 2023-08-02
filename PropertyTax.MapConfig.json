@@ -1,0 +1,1 @@
+{"$schema":"http://json-schema.org/draft-07/schema#","type":"object","properties":{"defaultConfig":{"type":"object","properties":{"lat":{"type":"number"},"lng":{"type":"number"}},"additionalProperties":false,"required":["lat","lng"]}},"additionalProperties":false,"required":["defaultConfig"]}

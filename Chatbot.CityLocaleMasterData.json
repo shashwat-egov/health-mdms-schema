@@ -1,0 +1,1 @@
+{"$schema":"http://json-schema.org/draft-07/schema#","type":"object","properties":{"cityName":{"type":"string"},"locale":{"type":"string"},"tenantId":{"type":"string"}},"additionalProperties":false,"required":["cityName","locale","tenantId"]}

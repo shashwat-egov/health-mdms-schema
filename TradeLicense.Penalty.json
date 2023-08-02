@@ -1,0 +1,1 @@
+{"$schema":"http://json-schema.org/draft-07/schema#","type":"object","properties":{"rate":{"type":"integer"},"minAmount":{"type":"number"},"flatAmount":{"type":"number"},"fromFY":{"type":"string"},"startingDay":{"type":"string"}},"additionalProperties":false,"required":["rate","minAmount","flatAmount","fromFY","startingDay"]}

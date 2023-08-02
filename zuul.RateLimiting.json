@@ -1,0 +1,1 @@
+{"$schema":"http://json-schema.org/draft-07/schema#","type":"object","properties":{"url":{"type":"string"},"service":{"type":"string"},"type":{"type":"string"},"rate":{"type":"integer"},"quota":{"type":"integer"},"refresh-interval":{"type":"integer"}},"additionalProperties":false,"required":["url","service","type","rate","quota","refresh-interval"]}

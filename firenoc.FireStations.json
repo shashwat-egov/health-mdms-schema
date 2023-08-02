@@ -1,0 +1,1 @@
+{"$schema":"http://json-schema.org/draft-07/schema#","type":"object","properties":{"code":{"type":"string"},"baseTenantId":{"type":"string"},"active":{"type":"boolean"},"subDistrict":{"type":"array","items":{"type":"string"}}},"additionalProperties":false,"required":["code","baseTenantId","active","subDistrict"]}

@@ -1,0 +1,1 @@
+{"$schema":"http://json-schema.org/draft-07/schema#","type":"object","properties":{"tenantId":{"type":"string"},"reminderInterval":{"type":"integer"}},"additionalProperties":false,"required":["tenantId","reminderInterval"]}

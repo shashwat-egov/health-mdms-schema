@@ -1,0 +1,1 @@
+{"$schema":"http://json-schema.org/draft-07/schema#","type":"object","properties":{"applicationType":{"type":"string"},"serviceType":{"type":"string"},"riskType":{"type":"string"},"feeType":{"type":"string"},"amount":{"type":"integer"}},"additionalProperties":false,"required":["applicationType","serviceType","riskType","feeType","amount"]}

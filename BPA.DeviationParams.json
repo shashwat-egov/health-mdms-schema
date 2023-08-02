@@ -1,0 +1,1 @@
+{"$schema":"http://json-schema.org/draft-07/schema#","type":"object","properties":{"parameter":{"type":"string"},"tolerancelimit":{"type":"integer"},"calculationType":{"type":"string"},"restrictionType":{"type":"string"},"paramPath":{"type":"string"}},"additionalProperties":false,"required":["parameter","tolerancelimit","calculationType","restrictionType","paramPath"]}

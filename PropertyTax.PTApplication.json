@@ -1,0 +1,1 @@
+{"$schema":"http://json-schema.org/draft-07/schema#","type":"object","properties":{"creationReason":{"type":"string"},"businessService":{"type":"string"},"action":{"type":"string"},"editAction":{"type":"string"}},"additionalProperties":false,"required":["creationReason","businessService","action","editAction"]}

@@ -1,0 +1,1 @@
+{"$schema":"http://json-schema.org/draft-07/schema#","type":"object","properties":{"actionId":{"type":"integer"},"name":{"type":"string"},"navigationURL":{"type":"string"},"i18nKey":{"type":"string"},"style":{"type":"string"}},"additionalProperties":false,"required":["actionId","name","navigationURL","i18nKey","style"]}

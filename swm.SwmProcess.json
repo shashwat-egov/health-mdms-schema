@@ -1,0 +1,1 @@
+{"$schema":"http://json-schema.org/draft-07/schema#","type":"object","properties":{"code":{"type":"string"},"tenantId":{"type":"string"},"name":{"type":"string"},"reqInStaffTarget":{"type":"boolean"}},"additionalProperties":false,"required":["code","tenantId","name","reqInStaffTarget"]}
